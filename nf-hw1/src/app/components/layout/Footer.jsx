@@ -2,7 +2,7 @@ import Link from "next/link";
 
 const Footer = () => {
     return (
-        <div className="flex flex-col items-center justify-center border p-6 text-gray-500">
+        <div className="flex flex-col items-center justify-center  p-6 text-gray-500 w-[60%] m-auto border-t">
             <div className="text-xs mb-4">
                 © 2024 Arystambek Dinmukhammed ·
                 <Link href="#" className="text-[#0000ff] hover:underline" prefetch={false}>

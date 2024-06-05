@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "slug": "how-to-sneak-your-phone-into-class-like-a-pro",
+    "date": "2024-06-04",
+    "author": "Baurma",
+    "title": "How to Sneak Your Phone into Class Like a Pro",
+    "description": "Tired of getting caught? Here are 10 ninja-level tips to keep your phone hidden and your texts flowing during boring lectures.",
+    "image": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 2,
+    "slug": "10-reasons-why-avocado-toast-is-the-secret-to-happiness",
+    "date": "2024-06-03",
+    "author": "Daulet Issatayev",
+    "title": "10 Reasons Why Avocado Toast is the Secret to Happiness",
+    "description": "You won't believe number 7! Find out why this trendy snack is more than just a food – it’s a lifestyle.",
+    "image": "https://assets.bonappetit.com/photos/596d37247102712b68401bc4/16:9/w_2560%2Cc_limit/Avo_Tile.jpg"
+  },
+  {
+    "id": 3,
+    "slug": "memes-that-will-make-your-mom-say-what",
+    "date": "2024-06-02",
+    "author": "Madina",
+    "title": "Memes That Will Make Your Mom Say 'What?'",
+    "description": "From Spongebob to Baby Yoda, these memes will have you laughing while leaving your parents totally confused.",
+    "image": "https://i.kym-cdn.com/entries/icons/original/000/026/060/Xbone.png"
+  },
+  {
+    "id": 4,
+    "slug": "why-homework-is-basically-dlc-for-school",
+    "date": "2024-06-01",
+    "author": "Alibek Seitov",
+    "title": "Why Homework is Basically DLC for School",
+    "description": "Ever feel like homework is just extra content you didn’t ask for? Here’s why it’s the ultimate downloadable content for your education.",
+    "image": "https://onlinedegrees.sandiego.edu/wp-content/uploads/2022/01/education_inequity_and_homework.jpg"
+  },
+  {
+    "id": 5,
+    "slug": "the-ultimate-guide-to-going-viral-on-tiktok",
+    "date": "2024-05-31",
+    "author": "Uldana",
+    "title": "The Ultimate Guide to Going Viral on TikTok",
+    "description": "Want to be the next big thing? Follow these simple steps to become a TikTok sensation overnight (or at least get a few likes).",
+    "image": "https://fanbytes.co.uk/wp-content/uploads/2019/05/image1-5.jpg"
+  },
+  {
+    "id": 6,
+    "slug": "the-best-coffee-shops-to-study-and-chill",
+    "date": "2024-05-30",
+    "author": "Dana Nurlybek",
+    "title": "The Best Coffee Shops to Study and Chill",
+    "description": "Looking for the perfect spot to get some work done or just relax? Check out these amazing coffee shops in your area.",
+    "image": "https://images.unsplash.com/photo-1517677208171-0bc6725a3e60?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 7,
+    "slug": "top-10-life-hacks-for-busy-students",
+    "date": "2024-05-29",
+    "author": "Alikhan Tursyn",
+    "title": "Top 10 Life Hacks for Busy Students",
+    "description": "Life as a student can be hectic. Here are the top 10 life hacks to help you stay on top of your game and make your life easier.",
+    "image": "https://images.unsplash.com/photo-1553729784-e91953dec042?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 8,
+    "slug": "how-to-balance-work-school-and-social-life",
+    "date": "2024-05-28",
+    "author": "Zarina Ismail",
+    "title": "How to Balance Work, School, and Social Life",
+    "description": "Struggling to keep up with everything? These tips will help you balance your work, school, and social life like a pro.",
+    "image": "https://www.ecoleglobale.com/blog/wp-content/uploads/2021/11/SCHOOL.jpg"
+  },
+  {
+    "id": 9,
+    "slug": "the-future-of-technology-in-education",
+    "date": "2024-05-27",
+    "author": "Nurgali Alim",
+    "title": "The Future of Technology in Education",
+    "description": "Technology is changing education as we know it. Discover the latest trends and how they will impact the future of learning.",
+    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 10,
+    "slug": "why-you-should-start-a-blog-right-now",
+    "date": "2024-05-26",
+    "author": "Arystan Bek",
+    "title": "Why You Should Start a Blog Right Now",
+    "description": "Blogging is more than just a hobby – it can be a powerful tool for personal and professional growth. Learn why you should start a blog today.",
+    "image": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+  }
+]
